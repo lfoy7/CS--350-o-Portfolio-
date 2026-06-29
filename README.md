@@ -1,5 +1,7 @@
 # CS--350-o-Portfolio-
 ## Project Summary
+Leonard Foy 
+
 
 For this portfolio, I selected my Morse Code State Machine project and my Thermostat project. Both projects used Python on a Raspberry Pi to control hardware components. The Morse code project solved the problem of sending messages through LED blink patterns using dots, dashes, and pauses. The thermostat project solved the problem of reading temperature input and responding through buttons, LEDs, and display output to simulate a basic embedded thermostat system.
 
